@@ -9,7 +9,7 @@ A small C++ exercise with a test program that constructs credit card objects.
 - `reflect (1).txt` - reflection
 
 ## Before compiling
-The missing `CC.h` and `CC.cpp` have now been restored and their display-method typos corrected. Compile the complete test with:
+The project includes `CC.h` and `CC.cpp` for the card-class exercise. Compile the complete test with:
 
 ```bash
 g++ -std=c++11 -Wall -Wextra "main (1).cpp" CC.cpp cstr.cpp -o card-test
