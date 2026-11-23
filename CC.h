@@ -1,3 +1,4 @@
+/* Public declarations for the CC class used by the C++ lab. */
 #ifndef SDDS_CC_H
 #define SDDS_CC_H
 
